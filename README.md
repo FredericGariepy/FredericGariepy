@@ -44,5 +44,3 @@
 [![CodeWars Badges](https://www.codewars.com/users/fredy_codes/badges/large)](https://www.codewars.com/users/fredy_codes)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredericgariepy&show_icons=true&locale=en&layout=compact" alt="fredericgariepy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredericgariepy&show_icons=true&locale=en" alt="fredericgariepy" /></p>
