@@ -3,12 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredericgariepy" alt="fredericgariepy" /></a> </p>
 
-
-|              Fun facts                                 | Cute Science Seal |
-| --------------------------------------------------- | ----------- |
-| ⚡  **I'm natively bilingual in French and English** <br> 🌐 [My personal website](https://viruscat.com/) <br> :art: I love visual arts and awesome open source:<br> - <a href="https://www.newrafael.com/">Rafaël Rozendaal</a> :art:💖 <br> - <a href="https://leafletjs.com/">Leaflet by Volodymyr Agafonkin, </a> 🗺💖| <img src="https://viruscat.com/seal" alt="Seal" height="300"/>  |
-
-
 ### Languages and Tools:
 
 <p align="left">
