@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
-<h3 align="center">Recently finished McGill's Undergraduate Certificate in Computers and Information Technology</h3>
+<h3 align="center">Recently finished McGill's Undergraduate Certificate in Computers and Information Technology Q1.2024</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredericgariepy" alt="fredericgariepy" /></a> </p>
 
