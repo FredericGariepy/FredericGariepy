@@ -7,11 +7,10 @@
 
 
 ######   2024 Finished McGill University: Undergraduate Certificate in Computers and Information Technology
-- :computer: I’m currently working on finishing [Korean Job Board](https://fredy.ninja)
-- :brain: I’m currently taking classes with [TCM Security](https://tcm-sec.com/)
-- :round_pushpin: I'm currently in South korea
-- :zap: Fun-Fact: I'm trilingual & have a degree in philosophy
-- 📫 How to reach me: frederic.czk@gmail.com
+- :zap: I organize [Free Code Camp Busan](https://fcc-busan.github.io/)
+- :brain: I’m taking classes with [TCM Security](https://tcm-sec.com/)
+- :computer: finishing my project [Korean Job Board](https://fredy.ninja)
+- 📫 reach me: frederic.czk@gmail.com
 
 <!-- main projects 
 <p align="center">
