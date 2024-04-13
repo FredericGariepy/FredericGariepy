@@ -6,10 +6,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frederic.czk@gmail.com)
 
 
-######   2024 Finished McGill University: Undergraduate Certificate in Computers and Information Technology
+######   2024 Finished McGill University: Undergraduate Certificate in Computers and Information Technology. HIRE ME !
+- 20204 Q1-2 : Classes with [TCM Security](https://tcm-sec.com/) 
+- 2024  Q3-4: Cybersecurity bootcamp with [Lighthouse Labs](https://www.lighthouselabs.ca/en/about)
 - :zap: I organize [Free Code Camp Busan](https://fcc-busan.github.io/)
-- :brain: I’m taking classes with [TCM Security](https://tcm-sec.com/)
-- :computer: finishing my project [Korean Job Board](https://fredy.ninja)
+- :computer: (Am I ever?) finishing my project [Korean Job Board](https://fredy.ninja)
 - 📫 reach me: frederic.czk@gmail.com
 
 <!-- main projects 
