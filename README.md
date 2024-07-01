@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frederic.czk@gmail.com)
 
 
-######   2024 Finished McGill University: Undergraduate Certificate in Computers and Information Technology.
+- :mortar_board: 2024 [McGill University](https://www.mcgill.ca/continuingstudies/temporary-page-hold/scs-certificate-computers-information-technology) Undergraduate Certificate - Computers and Information Technology.
 - :briefcase: 2024  Cybersecurity bootcamp with [Lighthouse Labs](https://www.lighthouselabs.ca/en/about)
 - :zap: 2024 Organized [Free Code Camp Busan](https://fcc-busan.github.io/)
 
