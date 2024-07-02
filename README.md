@@ -1,14 +1,14 @@
 ## Hi 👋 I'm Fred
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com//FredericGariepy)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredisgood/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/world2fred/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frederic.czk@gmail.com)
+<!--[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com//FredericGariepy)-->
+<!--[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fredisgood/)-->
+<!--[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/world2fred/)-->
+<!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frederic.czk@gmail.com)-->
 
 
-- :mortar_board: 2024 [McGill University](https://www.mcgill.ca/continuingstudies/temporary-page-hold/scs-certificate-computers-information-technology) Undergraduate Certificate - Computers and Information Technology.
-- :briefcase: 2024  Cybersecurity bootcamp with [Lighthouse Labs](https://www.lighthouselabs.ca/en/about)
-- :zap: 2024 Organized [Free Code Camp Busan](https://fcc-busan.github.io/)
+- :briefcase: Now 2024 : Cybersecurity bootcamp with [Lighthouse Labs](https://www.lighthouselabs.ca/en/about)
+- :mortar_board: Q1 2024 : finished undergrad cert at [McGill University](https://www.mcgill.ca/continuingstudies/temporary-page-hold/scs-certificate-computers-information-technology)!
+- :zap: Q1-Q2 2024 Organized [Free Code Camp Busan](https://fcc-busan.github.io/)
 
 <!-- main projects 
 <p align="center">
