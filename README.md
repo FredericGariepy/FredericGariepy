@@ -4,13 +4,17 @@
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frederic.czk@gmail.com)-->
 <img src="https://learn.microsoft.com/en-us/media/learn/not-found/learn-not-found-dark-mode.png?branch=main" alt="microsoft learn's 404 image" width="300" />
 
-Current Activities:
-- Internship at elektrafi.io
-- Setting up a homelab
-- Enrolled in energy sector cybersecurity program
-- Preparing for CompTIA Security+ certification
+Current Activities 2024-2025
+- Preparing for CompTIA Security+ certification (December)
+- Canadian Energy Sector Cybersecurity Program
+- Homelab (red & blue)
 - Tryhackme Blue Team
 - Cisco netacad
+
+Past Activities 2024
+- Internship at elektrafi.io
+- Lighthouse Labs Cybersecurity
+- McGill Computers & I.T.
 
 
 [![CodeWars Badges](https://www.codewars.com/users/fredy_codes/badges/small)](https://www.codewars.com/users/fredy_codes)
